@@ -1,0 +1,9 @@
+Name of Quantlet: 'sentiment_analysis_1'
+
+Published in: 'SDA_2021_NUS'
+
+Description: 'Project_Group8 file'
+
+Keywords: 'NUS FE5225'
+
+Author: 'Wang Yuzhou'
