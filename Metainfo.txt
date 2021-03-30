@@ -1,6 +1,6 @@
 Name of Quantlet: 'Project_Group8'
 
-Published in: 'MANDATORY!'
+Published in: 'SDA_2021_NUS'
 
 Description: 'Project_Group8 file'
 
