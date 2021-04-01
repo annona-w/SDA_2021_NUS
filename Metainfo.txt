@@ -1,9 +1,20 @@
-Name of Quantlet: 'Project_Group8'
 
-Published in: 'SDA_2021_NUS'
+Name of Quantlet: 'MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...'
 
-Description: 'Project_Group8 file'
+Published in: 'MANDATORY!'
 
-Keywords: 'NUS, FE5225, Project, Group8, Sentiment Analysis, Quantitative Trading'
+Description: 'MANDATORY!'
 
-Author: 'Wang Yuzhou'
+Keywords: 'MANDATORY!'
+
+Author: 'MANDATORY'
+
+See also: 'optional: listing related Quantlets or Github code'
+
+Submitted:  'optional: e.g. 01. Jan 2019, John Doe'
+
+Datafile: 'optional: for your data sets - delete if not used'
+
+Input: 'optional'
+
+Output:  'optional'
