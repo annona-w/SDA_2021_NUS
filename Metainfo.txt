@@ -1,19 +1,9 @@
-Name of Quantlet: 'MANDATORY! Has to be the same as the Quantlet file, without file type ending, e.g. R,py,...'
+Name of Quantlet: 'Project_Group8'
 
-Published in: 'MANDATORY!'
+Published in: 'SDA_2021_NUS'
 
-Description: 'MANDATORY!'
+Description: 'Project_Group8 file'
 
-Keywords: 'MANDATORY!'
+Keywords: 'NUS FE5225'
 
-Author: 'MANDATORY'
-
-See also: 'optional: listing related Quantlets or Github code'
-
-Submitted:  'optional: e.g. 01. Jan 2019, John Doe'
-
-Datafile: 'optional: for your data sets - delete if not used'
-
-Input: 'optional'
-
-Output:  'optional'
+Author: 'Wang Yuzhou'
