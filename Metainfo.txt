@@ -5,7 +5,7 @@ Published in: 'MANDATORY!'
 
 Description: 'MANDATORY!'
 
-Keywords: 'MANDATORY!'
+Keywords: 'MANDATORY! You need at least 5 keywords' 
 
 Author: 'MANDATORY'
 
