@@ -4,6 +4,6 @@ Published in: 'SDA_2021_NUS'
 
 Description: 'Project_Group8 file'
 
-Keywords: 'NUS FE5225'
+Keywords: 'NUS, FE5225, sentiment analysis, stopwords, first step'
 
 Author: 'Wang Yuzhou'
